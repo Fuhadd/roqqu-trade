@@ -47,6 +47,9 @@ A Flutter-based trading app that integrates with the Binance API. The app provid
 ## Troubleshooting
 
 - If you encounter the following error:
+-
+- ![compreseed](https://github.com/user-attachments/assets/90d8f576-b8fc-4b67-bfeb-a06cd2c43972)
+
 
 ![IMG_3611](https://github.com/user-attachments/assets/c0371f81-ced5-48a1-a8f3-f2c6b72efe98)
 
