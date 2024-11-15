@@ -1,8 +1,6 @@
 # roqqu_trade
 
 
-![App Screenshot](assets/app-screenshot.png)
-
 A Flutter-based trading app that integrates with the Binance API. The app provides users with real-time market data, chart visualizations, and the ability to simulate trading actions. Due to restrictions on Binance API access in Nigeria and the US, the app suggests using a VPN for seamless functionality.
 
 ---
@@ -21,6 +19,10 @@ A Flutter-based trading app that integrates with the Binance API. The app provid
 
 
 *Watch a quick overview of the app in action.*
+
+
+https://github.com/user-attachments/assets/f1621364-1a8d-44db-9b1e-0b9649cd38ee
+
 
 ---
 
@@ -51,7 +53,6 @@ A Flutter-based trading app that integrates with the Binance API. The app provid
 - ![compreseed](https://github.com/user-attachments/assets/90d8f576-b8fc-4b67-bfeb-a06cd2c43972)
 
 
-![IMG_3611](https://github.com/user-attachments/assets/c0371f81-ced5-48a1-a8f3-f2c6b72efe98)
 
 
 1. Error: Binance APIs are not accessible from Nigeria or US locations. Please download and use a VPN to access this feature.
