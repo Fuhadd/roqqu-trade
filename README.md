@@ -52,11 +52,6 @@ https://github.com/user-attachments/assets/f1621364-1a8d-44db-9b1e-0b9649cd38ee
   
 -![compreseed](https://github.com/user-attachments/assets/0bee7819-c48f-4cb7-ae7d-f4d63f9837fa)
 
-- ![compreseed](https://github.com/user-attachments/assets/90d8f576-b8fc-4b67-bfeb-a06cd2c43972)
-
-
-
-
 1. Error: Binance APIs are not accessible from Nigeria or US locations. Please download and use a VPN to access this feature.
 
    - Fix: Download and use a vpn to access the app, didn't have enough time to setup the proxy.
