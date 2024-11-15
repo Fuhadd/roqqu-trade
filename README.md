@@ -26,6 +26,13 @@ https://github.com/user-attachments/assets/f1621364-1a8d-44db-9b1e-0b9649cd38ee
 
 ---
 
+## Links for direct installation
+
+https://drive.google.com/file/d/1r0J59_-h9ksho9jjt5PhcfhCwVrRK6Co/view?usp=sharing
+https://i.diawi.com/jAk75w
+
+---
+
 ## Requirements
 
 - **Flutter SDK**:  version 3.22.3 
